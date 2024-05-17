@@ -1,0 +1,5 @@
+isim_soyisim: String
+yas: Integer
+gorev: String
+maas: Float
+tam_zamanli: Boolean
